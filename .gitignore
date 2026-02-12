@@ -1,0 +1,23 @@
+# Pixi
+.pixi/
+
+# UV / Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ROS2
+build/
+install/
+log/
+
+# Direnv
+.direnv/
+
+# IDEs
+.vscode/
+.idea/
+
+uv.lock
+pixi.lock

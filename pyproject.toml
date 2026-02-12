@@ -1,0 +1,11 @@
+[project]
+name = "modern-ros2-workspace"
+version = "0.1.0"
+description = "A modern ROS2 workspace template using pixi and uv"
+requires-python = ">=3.11"
+dependencies = [
+    "setuptools",
+]
+
+[tool.uv]
+managed = true
